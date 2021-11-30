@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Cleo Smith abduction: Australian police investigate 'if anyone else involved'",
+    "description": "The four-year-old Australian girl was found in a locked house last week after vanishing for 18 days.",
+    "url": "http://www.bbc.co.uk/news/world-australia-59215945",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D824/production/_121323355_fdpnyz9uyaocxmz-1.jpg",
+    "publishedAt": "2021-11-09T12:37:22.2153644Z",
+    "content": "Image caption, Police released a photo of Cleo Smith after her rescue\r\nAustralian police are investigating whether another person may have been involved in the abduction of four-year-old Cleo Smith, … [+1909 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Desperate Afghans turn to people smugglers",
+    "description": "Smugglers tell the BBC the number of Afghans leaving has more than doubled since the Taliban takeover.",
+    "url": "http://www.bbc.co.uk/news/world-asia-59213113",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/952C/production/_121488183_b99c1d53-3309-4610-9cb3-91938de0001a.jpg",
+    "publishedAt": "2021-11-09T12:22:48.1765426Z",
+    "content": "The evacuation flights out of Afghanistan may have largely stopped, but with international funding largely frozen and a humanitarian crisis escalating, thousands are still desperate to find a way out… [+298 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Metallurgist admits faking steel test results for US Navy subs",
+    "description": "A metallurgist has pleaded guilty to fraud after faking the results of strength tests on steel.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-59186655",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6E12/production/_121487182_gettyimages-523821864.jpg",
+    "publishedAt": "2021-11-09T12:22:46.5675662Z",
+    "content": "Image source, Getty Images\r\nImage caption, The government has not disclosed which submarines were affected (file picture)\r\nA metallurgist in the US state of Washington has pleaded guilty to fraud aft… [+2276 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Nagaenthran: Family prays for miracle to halt execution of man with low IQ",
+    "description": "The drug trafficking case has sparked a rare disquiet in Singapore where the death penalty is largely uncontroversial.",
+    "url": "http://www.bbc.co.uk/news/world-asia-59172767",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/101F5/production/_121473066_089dc074-3ba2-457f-9d4c-7cf764f4a5be.jpg",
+    "publishedAt": "2021-11-09T12:22:45.0523206Z",
+    "content": "By Yvette TanBBC News, Singapore\r\nImage source, Sarmila Dharmalingam\r\nImage caption, Nagaenthran Dharmalingam is set to be hanged in Singapore's Changi Prison\r\nSarmila Dharmalingam is praying for a m… [+5990 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "COP26: One billion face deadly heat under 2C temperatures rise, says UK Met Office",
+    "description": "One in eight would be at risk of extreme heat stress under a 2C temperature rise, the UK Met Office says.",
+    "url": "http://www.bbc.co.uk/news/live/world-59213815",
+    "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.2.0/bbc_news_logo.png",
+    "publishedAt": "2021-11-09T12:22:43.0215739Z",
+    "content": "Climate projections from the UK Met Office show that by 2070, hot summers where the maximum temperature exceeds 30°C on consecutive days will become more frequent.\r\nThis is likely to add additional s… [+1194 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Belarus migrants: Poland fears armed border escalation",
+    "description": "It comes after hundreds of migrants tried to cut a barbed-wire fence and enter Poland illegally.",
+    "url": "http://www.bbc.co.uk/news/world-europe-59215769",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15B10/production/_121484888_mediaitem121484887.jpg",
+    "publishedAt": "2021-11-09T08:07:24.2288603Z",
+    "content": "Media caption, Watch: Video shows hundreds of migrants at Belarus' border with Poland\r\nPoland has warned of a possible \"armed\" escalation on its border with Belarus, fearing its neighbour may try to … [+4410 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Wisconsin man shot by Kyle Rittenhouse pointed a gun at him",
+    "description": "A protester acknowledges in court he was advancing with gun drawn on the teen when he opened fire.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-59216106",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B57A/production/_121485464_gettyimages-1236442187.jpg",
+    "publishedAt": "2021-11-09T04:07:22.6771867Z",
+    "content": "Image source, Getty Images\r\nImage caption, Mr Grosskreutz was the only man shot by Mr Rittenhouse to survive\r\nA teenager who turned up at social justice protests in Wisconsin last year saying he want… [+3257 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "California couple sue clinic for alleged IVF swap 'horror'",
+    "description": "Two California couples gave birth to each others’ babies after a mix-up at a fertility clinic , a lawsuit claims.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-59216104",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B12E/production/_121485354_gettyimages-546824905.jpg",
+    "publishedAt": "2021-11-09T02:22:21.3067298Z",
+    "content": "Image source, Peiffer Wolf Carr Kane &amp; Conway\r\nImage caption, Daphna and Alexander Cardinale\r\nA California couple gave birth to a stranger's child after being given the wrong embryo by a fertilit… [+3343 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "The fight to keep America's wild horses wild",
+    "description": "A photographer is using her art to inspire, hoping to keep the iconic animals at home on the range.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-59213093",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8884/production/_121484943_p0b32qgp.jpg",
+    "publishedAt": "2021-11-09T01:07:22.9349874Z",
+    "content": "Wildlife photographer Mary Hone is using her art to inspire and advocate for the iconic wild horses that roam the western US. \r\nThe animals are at the centre of a heated debate over land and resource… [+170 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "REvil: Day of reckoning for notorious cyber gang",
+    "description": "A global police operation has dealt a major blow to one of the most prolific cyber gangs in history.",
+    "url": "http://www.bbc.co.uk/news/technology-59215167",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E770/production/_121484295_europolpic.jpg",
+    "publishedAt": "2021-11-08T21:22:21.5268587Z",
+    "content": "A global police operation has dealt a devastating blow to one of the most prolific cyber-crime gangs in history.\r\nThe co-ordinated action against the REvil gang was announced on Monday by Romanian po… [+3760 chars]"
+    }
+    ]
+    }
